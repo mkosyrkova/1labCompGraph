@@ -3,3 +3,7 @@ lab1 2/lab1 2/Debug/
 
 test/Debug/
 test/test/Debug/
+*.sln
+*.vcxproj
+*.filters
+*.user
